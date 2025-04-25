@@ -1,6 +1,6 @@
 ## @datr.tech/db-entity
 
-> DB for entity - 0.3.1
+> DB for entity - 0.3.2
 
 ---
 
